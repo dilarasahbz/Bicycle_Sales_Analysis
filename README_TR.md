@@ -28,6 +28,4 @@ Microsoft Power BI Desktop
 
 3 kişilik bir ekip tarafından geliştirilmiştir.
 
-## Dosyalar
 
-- [`PROJE_iszekasi.pbix`](PROJE_iszekasi.pbix) — Power BI proje dosyası (Power BI Desktop ile açılabilir)
