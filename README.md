@@ -28,6 +28,4 @@ Microsoft Power BI Desktop
 
 Developed by a team of 3.
 
-## Files
 
-- [`PROJE_iszekasi.pbix`](PROJE_iszekasi.pbix) — Power BI project file (can be opened with Power BI Desktop)
