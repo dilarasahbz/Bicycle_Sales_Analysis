@@ -17,7 +17,8 @@ Genel performans özeti — toplam satış, satış adedi, çalışan başına g
 Yıllara göre satış trendleri — yılbaşından itibaren toplam satış, yıllara göre ortalama sipariş tutarı, aylık satış karşılaştırması, bölgelere göre satış dağılımı ve geçen yıla göre günlük ortalama satış değişimi.
 
 
-<img width="1277" height="722" alt="bicycle_sales" src="https://github.com/user-attachments/assets/7db2c056-9523-41ad-844d-445cb064167e" />
+<img width="1277" height="712" alt="bicycle_sales" src="https://github.com/user-attachments/assets/49ab5efd-1a70-4dca-b7ad-9cd0b269f6a7" />
+
 
 
 
