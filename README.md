@@ -14,7 +14,8 @@ Overall performance summary — total sales, sales volume (units sold), revenue 
 ### 2. Sales
 Sales trends over the years — year-to-date (YTD) total sales, average order value by year, monthly sales comparison, sales distribution by region, and daily average sales change compared to the previous year.
 
-![Uploading bicycle_sales.png…]()
+<img width="1277" height="712" alt="bicycle_sales" src="https://github.com/user-attachments/assets/a6a1e0e6-8a25-49a2-bb59-8dcc9c306fe2" />
+
 
 
 ### 3. Product
